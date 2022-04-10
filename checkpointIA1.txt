@@ -1,0 +1,2 @@
+the version of Python est 3.9.7.
+ the notebook extension is .ipynb
